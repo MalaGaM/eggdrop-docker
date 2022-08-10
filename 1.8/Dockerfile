@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.13
 MAINTAINER Geo Van O <geo@eggheads.org>
 
 RUN adduser -S eggdrop
